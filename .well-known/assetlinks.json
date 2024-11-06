@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.skirble",
+      "package_name": "com.example.skirble",
+      "sha256_cert_fingerprints": [
+        "4A:69:85:DD:7D:80:27:CE:C5:E9:BB:1F:6B:80:D0:E6:9A:DC:75:8E:77:0B:A2:2F:B4:D2:97:D7:26:50:42:7D"
+      ]
+    }
+  }
+]
